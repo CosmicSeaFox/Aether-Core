@@ -12,6 +12,7 @@ A handcrafted Obsidian theme inspired by **ancient archives, refined materials, 
 Aether Core transforms your vault into a focused knowledge environment designed around calm materials, clear hierarchy, and subtle energy.
 
 **Designed for:**
+
 - Long-form reading
 - Focused writing
 - Research workflows
@@ -20,9 +21,13 @@ Aether Core transforms your vault into a focused knowledge environment designed 
 - Worldbuilding
 - Daily vault use
 
+---
+
 ## Preview
 
 ![Aether Core](screenshot.png)
+
+---
 
 ## Concept
 
@@ -41,9 +46,11 @@ The theme is designed around one principle:
 
 > **The interface supports the knowledge. It does not compete with it.**
 
-## Screenshots
+---
 
-### Dark Mode
+# Screenshots
+
+## Dark Mode
 
 ![Dark Mode](screenshots/dark.png)
 
@@ -55,7 +62,9 @@ A deep, atmospheric workspace designed for focused sessions.
 - Low-glare typography
 - Calm visual hierarchy
 
-### Light Mode
+---
+
+## Light Mode
 
 ![Light Mode](screenshots/light.png)
 
@@ -67,7 +76,9 @@ A bright material environment designed for comfortable daytime work.
 - Comfortable contrast
 - Clean academic atmosphere
 
-### Reading Experience
+---
+
+## Reading Experience
 
 ![Reading Mode](screenshots/reading.png)
 
@@ -79,49 +90,65 @@ Designed for long sessions with:
 - Soft contrast
 - Reduced visual noise
 
-### Source Mode
+---
+
+## Source Mode
 
 ![Source Mode](screenshots/source.png)
 
 A focused editing environment for writers, researchers, and developers.
 
-### Graph View
+---
+
+## Graph View
 
 ![Graph View](screenshots/graph.png)
 
 A clean knowledge network where connected notes form a visual information map.
 
-### Tables
+---
+
+## Tables
 
 ![Tables](screenshots/table.png)
 
 Tables are designed as part of the same surface system rather than appearing as separate spreadsheet elements.
 
 - Unified background
-- No zebra-striping
+- No zebra striping
 - Soft borders
 - Subtle hover feedback
 - Consistent material appearance
 
-### Properties
+> **The table should feel carved into the same surface as the note.**
+
+---
+
+## Properties
 
 ![Properties](screenshots/properties.png)
 
-Metadata is presented as part of the same interface system.
+Metadata is presented as part of the same interface system, keeping properties visually integrated with the surrounding workspace.
 
-### Code Blocks
+---
+
+## Code Blocks
 
 ![Code Blocks](screenshots/code.png)
 
 A calm technical environment designed for readable code without excessive contrast or glow.
 
-### Callouts
+---
+
+## Callouts
 
 ![Callouts](screenshots/callouts.png)
 
 Structured information panels with controlled visual emphasis.
 
-## Features
+---
+
+# Features
 
 | Feature | Description |
 |---|---|
@@ -140,7 +167,9 @@ Structured information panels with controlled visual emphasis.
 | 📅 Calendar | Consistent interface styling |
 | 📱 Mobile | Responsive layouts |
 
-## Aether Color System
+---
+
+# Aether Color System
 
 Aether Core uses a controlled accent system rather than covering the interface with bright colors.
 
@@ -156,11 +185,13 @@ Aether Core uses a controlled accent system rather than covering the interface w
 
 **Core principle:**
 
-> 90% calm material, 10% accent energy.
+> **90% calm material, 10% accent energy.**
 
 Accent colors are reserved for important states, interaction, navigation, and visual emphasis.
 
-## Material System
+---
+
+# Material System
 
 Aether Core uses layered surfaces to create depth without excessive decoration.
 
@@ -174,7 +205,9 @@ Aether Core uses layered surfaces to create depth without excessive decoration.
 
 Elements should feel like they belong to the same environment rather than being placed on top of it.
 
-## Table Design
+---
+
+# Table Design
 
 Tables follow the same material system as the rest of the theme.
 
@@ -188,9 +221,11 @@ Tables follow the same material system as the rest of the theme.
 
 The goal is:
 
-> A table that feels carved into the same surface as the note.
+> **A table that feels carved into the same surface as the note.**
 
-## Typography
+---
+
+# Typography
 
 | Purpose | Font |
 |---|---|
@@ -200,7 +235,9 @@ The goal is:
 
 Typography is kept readable and restrained so that the content remains the primary focus.
 
-## Installation
+---
+
+# Installation
 
 1. Download this repository.
 2. Copy the theme folder into:
@@ -222,7 +259,9 @@ Settings → Appearance → Themes
 Aether Core
 ```
 
-## Compatibility
+---
+
+# Compatibility
 
 | Feature | Status |
 |---|---|
@@ -239,7 +278,9 @@ Aether Core
 | Dataview | ✅ |
 | Tasks | ✅ |
 
-## Design Philosophy
+---
+
+# Design Philosophy
 
 Aether Core focuses on:
 
@@ -260,7 +301,9 @@ Aether Core focuses on:
 - Worldbuilders
 - Knowledge explorers
 
-## Dark Mode
+---
+
+# Dark Mode
 
 Dark mode uses deep layered surfaces with controlled accents.
 
@@ -274,7 +317,9 @@ Features:
 - Soft borders
 - Comfortable text contrast
 
-## Light Mode
+---
+
+# Light Mode
 
 Light mode is not simply an inverted dark theme.
 
@@ -290,7 +335,9 @@ Features:
 
 **Goal:** A bright workspace that still feels like Aether Core.
 
-## Community Theme Principles
+---
+
+# Community Theme Principles
 
 Aether Core is designed with maintainability and compatibility in mind.
 
@@ -313,24 +360,50 @@ scrollbar-color
 
 and uses Obsidian's Chromium-compatible scrollbar approach instead.
 
-## Support
+---
 
-If you enjoy Aether Core and want to support future development:
+# Support ☕
 
-**Buy Me a Coffee:** [CosmicSeaFox](https://www.buymeacoffee.com/CosmicSeaFox)
+If you enjoy this theme and want to support future development:
 
-**Ko-fi:** [CosmicSeaFox](https://ko-fi.com/cosmicseafox)
+Your support helps with:
 
-## Credits
+- New theme editions
+- Plugin compatibility
+- Long-term maintenance
+- Community improvements
+
+## Buy Me A Coffee
+
+<a href="https://www.buymeacoffee.com/CosmicSeaFox" target="_blank">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+alt="Buy Me A Coffee"
+height="60">
+</a>
+
+## Ko-fi
+
+<a href="https://ko-fi.com/cosmicseafox" target="_blank">
+<img src="https://ko-fi.com/img/githubbutton_sm.svg"
+alt="Ko-fi"
+height="60">
+</a>
+
+---
+
+# Credits
 
 **Fonts:**
+
 - Inter
 - Cormorant Garamond
 - JetBrains Mono
 
 Made for the Obsidian community.
 
-## License
+---
+
+# License
 
 MIT License
 
