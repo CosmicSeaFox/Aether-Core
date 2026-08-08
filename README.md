@@ -1,410 +1,209 @@
 # Aether Core
 
-![Obsidian Theme](https://img.shields.io/badge/Obsidian-Theme-purple)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Modes](https://img.shields.io/badge/Dark%20%26%20Light-Supported-6c8cff)
-![Mobile](https://img.shields.io/badge/Mobile-Supported-blue)
-
-A handcrafted Obsidian theme inspired by **ancient archives, refined materials, atmospheric depth, and the quiet energy hidden beneath the surface.**
+A handcrafted Obsidian theme inspired by &#x2A;ancient archives, refined materials, atmospheric depth, and quiet energy beneath the surface.*
 
 > *"Knowledge is not decoration. It is the structure beneath everything."*
 
-Aether Core transforms your vault into a focused knowledge environment designed around calm materials, clear hierarchy, and subtle energy.
+Aether Core transforms your vault into a focused knowledge environment with calm materials, clear hierarchy, and subtle energy.
 
 **Designed for:**
 
-- Long-form reading
-- Focused writing
-- Research workflows
+- Reading
+- Writing
+- Research
 - Knowledge management
 - Coding
 - Worldbuilding
-- Daily vault use
 
 ---
 
 ## Preview
 
-![Aether Core](screenshot.png)
+
 
 ---
 
 ## Concept
 
-Aether Core is built around the idea of a **quiet core** — a stable environment where information remains the focus while the interface provides atmosphere without overwhelming the content.
-
-The design combines:
+Aether Core is built around a **quiet core** — a stable environment where information stays the focus.
 
 - Deep atmospheric surfaces
 - Refined stone-like materials
 - Soft glass layers
 - Controlled accent lighting
-- Clear information hierarchy
-- Subtle visual depth
-
-The theme is designed around one principle:
-
-> **The interface supports the knowledge. It does not compete with it.**
-
----
-
-# Screenshots
-
-## Dark Mode
-
-![Dark Mode](screenshots/dark.png)
-
-A deep, atmospheric workspace designed for focused sessions.
-
-- Dark layered surfaces
-- Controlled accent highlights
-- Soft ambient lighting
-- Low-glare typography
-- Calm visual hierarchy
-
----
-
-## Light Mode
-
-![Light Mode](screenshots/light.png)
-
-A bright material environment designed for comfortable daytime work.
-
-- Warm light surfaces
-- Soft panels
-- Refined borders
-- Comfortable contrast
-- Clean academic atmosphere
-
----
-
-## Reading Experience
-
-![Reading Mode](screenshots/reading.png)
-
-Designed for long sessions with:
-
-- Comfortable typography
-- Balanced content width
 - Clear hierarchy
-- Soft contrast
-- Reduced visual noise
+- Subtle depth
+
+> The interface supports the knowledge. It does not compete with it.
 
 ---
 
-## Source Mode
+## Screenshots
 
-![Source Mode](screenshots/source.png)
+### Dark Mode
 
-A focused editing environment for writers, researchers, and developers.
+
+
+### Light Mode
+
+
+
+### Reading
+
+
+
+### Source Mode
+
+
+
+### Graph View
+
+
+
+### Tables
+
+
+
+### Properties
+
+
+
+### Code
+
+
+
+### Callouts
+
+
 
 ---
 
-## Graph View
+## Features
 
-![Graph View](screenshots/graph.png)
-
-A clean knowledge network where connected notes form a visual information map.
+| Feature         | Description              |
+| --------------- | ------------------------ |
+| Dark Mode       | Deep workspace           |
+| Light Mode      | Clean daylight workspace |
+| Reading Mode    | Long-form reading        |
+| Source Mode     | Writing focus            |
+| Material System | Unified surfaces         |
+| Tables          | Clean structure          |
+| Code Blocks     | Readable styling         |
+| Graph View      | Knowledge map            |
+| Mobile          | Responsive               |
 
 ---
 
-## Tables
+## Aether Color System
 
-![Tables](screenshots/table.png)
+| Variant      | Role             |
+| ------------ | ---------------- |
+| Aether Blue  | Primary accent   |
+| Deep Violet  | Depth            |
+| Mineral Cyan | Cool highlight   |
+| Emerald      | Secondary accent |
+| Solar Gold   | Emphasis         |
+| Moon Silver  | Neutral          |
+| Core White   | Light mode       |
 
-Tables are designed as part of the same surface system rather than appearing as separate spreadsheet elements.
+> 90% calm material, 10% accent energy
 
-- Unified background
+---
+
+## Material System
+
+| Layer          | Purpose         |
+| -------------- | --------------- |
+| Core Surface   | Main background |
+| Stone Surface  | Editor          |
+| Raised Surface | Panels          |
+| Glass Layer    | Special UI      |
+| Accent Layer   | Active states   |
+
+---
+
+## Table Design
+
 - No zebra striping
 - Soft borders
-- Subtle hover feedback
-- Consistent material appearance
+- Unified surface
+- Subtle hover
 
-> **The table should feel carved into the same surface as the note.**
-
----
-
-## Properties
-
-![Properties](screenshots/properties.png)
-
-Metadata is presented as part of the same interface system, keeping properties visually integrated with the surrounding workspace.
+> Tables feel carved into the same material as the note.
 
 ---
 
-## Code Blocks
+## Typography
 
-![Code Blocks](screenshots/code.png)
-
-A calm technical environment designed for readable code without excessive contrast or glow.
-
----
-
-## Callouts
-
-![Callouts](screenshots/callouts.png)
-
-Structured information panels with controlled visual emphasis.
+- Body: Inter
+- Headings: Cormorant Garamond
+- Code: JetBrains Mono
 
 ---
 
-# Features
+## Installation
 
-| Feature | Description |
-|---|---|
-| 🌑 Dark Mode | Deep atmospheric workspace |
-| ☀️ Light Mode | Refined daylight workspace |
-| 📖 Reading Mode | Comfortable long-form reading |
-| ✍️ Source Mode | Focused writing environment |
-| 🎨 Aether System | Unified material and accent system |
-| 🪨 Material Surfaces | Layered interface depth |
-| 📊 Tables | Unified stone-style table surfaces |
-| 💻 Code Blocks | Calm technical presentation |
-| 🗂 Properties | Clean metadata panels |
-| 🕸 Graph View | Refined knowledge network |
-| 🏷 Tags | Integrated accent styling |
-| ☑ Tasks | Clear task states |
-| 📅 Calendar | Consistent interface styling |
-| 📱 Mobile | Responsive layouts |
-
----
-
-# Aether Color System
-
-Aether Core uses a controlled accent system rather than covering the interface with bright colors.
-
-| Variant | Character |
-|---|---|
-| Aether Blue | Primary atmospheric accent |
-| Deep Violet | Secondary depth |
-| Mineral Cyan | Cool highlights |
-| Emerald | Natural secondary accent |
-| Solar Gold | Warm emphasis |
-| Moon Silver | Neutral highlight |
-| Core White | Light-mode clarity |
-
-**Core principle:**
-
-> **90% calm material, 10% accent energy.**
-
-Accent colors are reserved for important states, interaction, navigation, and visual emphasis.
-
----
-
-# Material System
-
-Aether Core uses layered surfaces to create depth without excessive decoration.
-
-| Layer | Purpose |
-|---|---|
-| Core Surface | Main workspace |
-| Primary Stone | Editor and writing areas |
-| Raised Surface | Panels and tables |
-| Glass Layer | Special interface elements |
-| Accent Layer | Active and important states |
-
-Elements should feel like they belong to the same environment rather than being placed on top of it.
-
----
-
-# Table Design
-
-Tables follow the same material system as the rest of the theme.
-
-| Element | Design |
-|---|---|
-| Header | Elevated surface |
-| Body | Single continuous surface |
-| Rows | No alternating colors |
-| Borders | Soft mineral edges |
-| Hover | Subtle accent reflection |
-
-The goal is:
-
-> **A table that feels carved into the same surface as the note.**
-
----
-
-# Typography
-
-| Purpose | Font |
-|---|---|
-| Body | Inter |
-| Headings | Cormorant Garamond |
-| Code | JetBrains Mono |
-
-Typography is kept readable and restrained so that the content remains the primary focus.
-
----
-
-# Installation
-
-1. Download this repository.
-2. Copy the theme folder into:
+1. Download repository
+2. Copy to:
 
 ```text
 YourVault/.obsidian/themes/
 ```
 
-3. Open Obsidian.
-4. Go to:
+3. Enable in:
 
 ```text
 Settings → Appearance → Themes
 ```
 
-5. Select:
-
-```text
-Aether Core
-```
+4. Select **Aether Core**
 
 ---
 
-# Compatibility
+## Compatibility
 
-| Feature | Status |
-|---|---|
-| Obsidian Desktop | ✅ |
-| Obsidian Mobile | ✅ |
-| Reading Mode | ✅ |
-| Source Mode | ✅ |
-| Live Preview | ✅ |
-| Graph View | ✅ |
-| Properties | ✅ |
-| Tables | ✅ |
-| Callouts | ✅ |
-| Code Blocks | ✅ |
-| Dataview | ✅ |
-| Tasks | ✅ |
+- Desktop ✅
+- Mobile ✅
+- Live Preview ✅
+- Graph View ✅
+- Properties ✅
+- Tables ✅
+- Code ✅
 
 ---
 
-# Design Philosophy
-
-Aether Core focuses on:
+## Design Philosophy
 
 - Calm atmosphere
-- Clear information hierarchy
-- Comfortable reading
-- Focused writing
-- Material consistency
+- Clear hierarchy
 - Minimal distraction
-- Long-term daily usability
-
-**Created for:**
-
-- Writers
-- Researchers
-- Students
-- Developers
-- Worldbuilders
-- Knowledge explorers
+- Long-term usability
 
 ---
 
-# Dark Mode
+## Support ☕
 
-Dark mode uses deep layered surfaces with controlled accents.
+If you enjoy this theme:
 
-**Goal:** Quiet depth, not pure black.
+### Buy Me A Coffee
 
-Features:
+\<a href="https\://www\.buymeacoffee.com/CosmicSeaFox" target="\_blank">
+\<img src="https\://cdn.buymeacoffee.com/buttons/v2/default-yellow\.png" height="60">
+\</a>
 
-- Deep atmospheric backgrounds
-- Refined surface layers
-- Subtle accent lighting
-- Soft borders
-- Comfortable text contrast
+### Ko-fi
 
----
-
-# Light Mode
-
-Light mode is not simply an inverted dark theme.
-
-It uses its own material identity.
-
-Features:
-
-- Warm light surfaces
-- Refined panels
-- Soft borders
-- Comfortable text contrast
-- Clean daylight atmosphere
-
-**Goal:** A bright workspace that still feels like Aether Core.
+\<a href="https\://ko-fi.com/cosmicseafox" target="\_blank">
+\<img src="https\://ko-fi.com/img/githubbutton\_sm.svg" height="60">
+\</a>
 
 ---
 
-# Community Theme Principles
-
-Aether Core is designed with maintainability and compatibility in mind.
-
-- Centralized design variables
-- Consistent component styling
-- Minimal hardcoded colors
-- No unnecessary `!important`
-- No zebra-striped tables
-- No excessive visual effects
-- Responsive layouts
-- Mobile-aware styling
-- Chromium-compatible scrollbar styling
-
-The theme avoids relying on:
-
-```text
-scrollbar-width
-scrollbar-color
-```
-
-and uses Obsidian's Chromium-compatible scrollbar approach instead.
-
----
-
-# Support ☕
-
-If you enjoy this theme and want to support future development:
-
-Your support helps with:
-
-- New theme editions
-- Plugin compatibility
-- Long-term maintenance
-- Community improvements
-
-## Buy Me A Coffee
-
-<a href="https://www.buymeacoffee.com/CosmicSeaFox" target="_blank">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-alt="Buy Me A Coffee"
-height="60">
-</a>
-
-## Ko-fi
-
-<a href="https://ko-fi.com/cosmicseafox" target="_blank">
-<img src="https://ko-fi.com/img/githubbutton_sm.svg"
-alt="Ko-fi"
-height="60">
-</a>
-
----
-
-# Credits
-
-**Fonts:**
-
-- Inter
-- Cormorant Garamond
-- JetBrains Mono
-
-Made for the Obsidian community.
-
----
-
-# License
+## License
 
 MIT License
 
-Made with ❤️ for writers, researchers, developers, and explorers of knowledge.
+If you want next step, I can also:
+
+- optimize your `theme.css` for Obsidian community review
+- or prepare your &#x2A;*submission checklist (so it gets accepted fast)**
