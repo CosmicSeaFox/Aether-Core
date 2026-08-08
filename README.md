@@ -377,34 +377,7 @@ Features:
 - Clean daylight atmosphere
 
 ### Goal
-
 > **Bright and comfortable while still feeling unmistakably Aether Core.**
-
----
-
-# Community Theme Principles
-
-Aether Core is designed with maintainability and compatibility in mind.
-
-- Centralized design variables
-- Consistent component styling
-- Minimal hardcoded colors
-- No unnecessary `!important`
-- No zebra-striped tables
-- No excessive visual effects
-- Responsive layouts
-- Mobile-aware styling
-- Chromium-compatible scrollbar styling
-
-The theme avoids relying on:
-
-```text
-scrollbar-width
-scrollbar-color
-```
-
-and uses Obsidian's Chromium-compatible scrollbar approach instead.
-
 ---
 
 # Aether Core Concept
